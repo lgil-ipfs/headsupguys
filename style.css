@@ -59,6 +59,13 @@ body {
     letter-spacing: -0.02em;
 }
 
+.logo-icon {
+    height: 32px;
+    width: auto;
+    filter: drop-shadow(0 0 5px rgba(134, 252, 47, 0.2));
+    mix-blend-mode: screen; /* Hides the black background of the PNG */
+}
+
 .hug-logo {
     color: var(--primary-lime);
 }
