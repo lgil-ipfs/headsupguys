@@ -60,10 +60,9 @@ body {
 }
 
 .logo-icon {
-    height: 32px;
+    height: 38px;
     width: auto;
-    filter: drop-shadow(0 0 5px rgba(134, 252, 47, 0.2));
-    mix-blend-mode: screen; /* Hides the black background of the PNG */
+    filter: drop-shadow(0 0 8px rgba(134, 252, 47, 0.3));
 }
 
 .hug-logo {
